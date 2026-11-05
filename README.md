@@ -26,7 +26,7 @@ MySQL · Joins · CTEs · Subqueries · CASE · Aggregate Functions · GROUP BY 
 |---|---|
 | schema.sql | Table creation with keys |
 | queries.sql | Analysis queries |
-| Inventory_Management_System.pdf | Project documentation |
+| new_ikea_Sql (1).pdf | Project documentation |
 
 ---
 
