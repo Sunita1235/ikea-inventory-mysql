@@ -24,9 +24,9 @@ MySQL · Joins · CTEs · Subqueries · CASE · Aggregate Functions · GROUP BY 
 ## 📂 Files
 | File | Description |
 |---|---|
-| schema.sql | Table creation with keys |
-| queries.sql | Analysis queries |
-| new_ikea_Sql (1).pdf | Project documentation |
+|  [schema.sql](schema.sql) | Table creation with keys |
+| [queries.sql](queries.sql) | Analysis queries |
+| [new_ikea_Sql(1)](new_ikea_Sql(1)).pdf | Project documentation |
 
 ---
 
