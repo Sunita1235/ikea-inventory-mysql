@@ -27,3 +27,11 @@ MySQL · Joins · CTEs · Subqueries · CASE · Aggregate Functions · GROUP BY 
 | `schema.sql` | Table creation with keys |
 | `queries.sql` | Analysis queries |
 | `Inventory_Management_System.pdf` | Project documentation |
+
+---
+
+<img width="877" height="487" alt="image" src="https://github.com/user-attachments/assets/365afbe1-5637-4924-8aaf-99845c629d83" />
+<img width="877" height="492" alt="image" src="https://github.com/user-attachments/assets/687282fa-4563-4921-bba6-7fc9d5556cd5" />
+<img width="877" height="492" alt="image" src="https://github.com/user-attachments/assets/ce771b8b-38c9-4555-9aab-cfb3c484b905" />
+
+
